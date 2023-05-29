@@ -1,0 +1,16 @@
+{
+    "name": "@mateothegreat/logger",
+    "version": "0.0.0",
+    "description": "",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "ts-node": "^10.9.1",
+        "typescript": "^5.0.4",
+        "vitest": "^0.31.1"
+    },
+    "scripts": {
+        "test": "vitest"
+    }
+}
